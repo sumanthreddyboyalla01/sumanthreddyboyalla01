@@ -1,25 +1,358 @@
-# 💫 About Me:
-Hi, I'm Sumanth 👋<br><br>I'm a Computer Science student passionate about Software Engineering, DevOps, Cloud Computing, and Applied AI. I enjoy building projects, solving DSA problems, and learning technologies that help create scalable and impactful applications.<br><br>🌱 Currently learning: Software Engineering, DSA, DevOps, Cloud & AI<br>💻 Interested in: Backend Development, System Design, MLOps, and Applied AI<br>🚀 Goal: To become a world-class Software Engineer and build products that solve real-world problems<br>📚 Always learning, building, and sharing my progress publicly
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0f172a&height=150&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Sumanth+Reddy+Boyalla;Applied+AI+Engineer;AI+Systems+Engineer;Backend+Engineer;Building+Production+AI+Products" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sumanthreddyboyalla01&style=flat-square&color=blue"/>
+
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sumanth__reddy__01?igsh=NTQybWpscXV3b2xm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumanth-reddy-boyalla-06112a31b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oksumanth@gmail.com) 
+# 👋 Hey, I'm Sumanth Reddy Boyalla
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sumanthreddyboyalla01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sumanthreddyboyalla01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumanthreddyboyalla01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Applied AI Engineer | AI Systems Engineer | Backend Engineer
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+I build **production-ready AI systems** combining:
+
+- Backend Engineering
+- Machine Learning
+- Large Language Models
+- Retrieval Systems
+- Agentic Workflows
+
+
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence)  
+🏫 Amrita Vishwa Vidyapeetham, Amaravati
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=sumanthreddyboyalla01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sumanthreddyboyalla01@gmail.com) 
+# 💻 Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark"/>
+
+</p>
+
+
+## Backend Engineering
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github&theme=dark"/>
+
+</p>
+
+
+- FastAPI
+- Async Python
+- PostgreSQL
+- Redis
+- REST APIs
+- Authentication
+- PyTest
+- Docker Deployment
+
+
+---
+
+
+# 🤖 AI Engineering
+
+
+## Machine Learning
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- Feature Engineering
+- Model Evaluation
+
+
+## Deep Learning
+
+- PyTorch
+- Neural Networks
+- CNN Architectures
+- Training Pipelines
+
+
+## LLM Systems
+
+- Large Language Models
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+- RAG Pipelines
+- AI Agents
+- Tool Calling
+- Evaluation Systems
+
+
+Tools:
+
+`LangChain`
+`LangGraph`
+`Qdrant`
+`FAISS`
+`HuggingFace`
+`OpenAI APIs`
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+## 🧠 Developer Knowledge Retrieval API
+
+
+Production RAG system.
+
+
+```text
+
+Documents
+
+↓
+
+Chunking
+
+↓
+
+Embeddings
+
+↓
+
+Qdrant Vector DB
+
+↓
+
+FastAPI API
+
+↓
+
+LLM Response
+
+```
+
+Features:
+
+✔ Document ingestion  
+✔ Semantic Search  
+✔ Redis caching  
+✔ PostgreSQL metadata  
+✔ Evaluation pipeline  
+✔ Docker deployment  
+
+
+Stack:
+
+`Python` `FastAPI` `Qdrant` `Redis` `PostgreSQL`
+
+
+---
+
+
+## 🤖 AI Workflow Assistant
+
+
+Agentic AI system.
+
+
+Features:
+
+✔ LangGraph orchestration  
+✔ Tool Calling  
+✔ Memory Management  
+✔ Retrieval  
+✔ Structured Outputs  
+✔ Evaluation Metrics  
+
+
+Stack:
+
+`FastAPI`
+`LangGraph`
+`Redis`
+`Qdrant`
+
+
+---
+
+
+# ⚙️ Computer Science
+
+
+Strong foundation in:
+
+
+### DSA
+
+- Arrays
+- Strings
+- Trees
+- Graphs
+- Dynamic Programming
+
+
+### Core CS
+
+- Operating Systems
+- DBMS
+- Computer Networks
+- System Design
+
+
+---
+
+
+# 🛠 Engineering Practices
+
+
+- Clean Code
+- Testing
+- CI/CD
+- Documentation
+- API Design
+- Performance Optimization
+
+
+Tools:
+
+`Git`
+`GitHub Actions`
+`Docker`
+`Linux`
+
+
+---
+
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanthreddyboyalla01&show_icons=true&theme=tokyonight"/>
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddyboyalla01&theme=tokyonight"/>
+
+
+<br><br>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddyboyalla01&layout=compact&theme=tokyonight"/>
+
+
+</div>
+
+
+---
+
+
+# 🏆 GitHub Trophies
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumanthreddyboyalla01&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+
+---
+
+
+# 📌 Current Focus
+
+
+```yaml
+Building:
+  - Production AI Systems
+  - RAG Applications
+  - AI Agents
+
+Improving:
+  - DSA
+  - System Design
+  - AI Reliability
+
+Exploring:
+  - Advanced RAG
+  - Multi-Agent Systems
+  - LLM Evaluation
+```
+
+---
+
+# 🌐 Socials
+
+
+<div align="center">
+
+
+<a href="https://sumanthreddyboyalla01.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+
+&nbsp;
+
+
+<a href="https://www.linkedin.com/in/sumanth-reddy-boyalla-06112a31b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+&nbsp;
+
+
+<a href="https://github.com/sumanthreddyboyalla01">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+&nbsp;
+
+
+<a href="https://www.instagram.com/sumanth__reddy__01">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+
+&nbsp;
+
+
+<a href="mailto:oksumanth@gmail.com">
+<img src="https://img.shields.io/badge/Email-oksumanth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+
+## Building AI systems from prototype → production 🚀
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:020617&height=120&section=footer"/>
+
+
+</div>
