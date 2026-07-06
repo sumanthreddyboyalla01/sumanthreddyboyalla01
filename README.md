@@ -1,65 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0f172a&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:0F172A&height=180&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Sumanth+Reddy+Boyalla;Applied+AI+Engineer;AI+Systems+Engineer;Backend+Engineer;Building+Production+AI+Products" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Sumanth+Reddy+Boyalla;Applied+AI+Engineer;AI+Systems+Engineer;Python+Backend+Developer;Building+Production+AI+Systems" />
 
-<img src="https://komarev.com/ghpvc/?username=sumanthreddyboyalla01&style=flat-square&color=blue"/>
+
+<br>
+
+
+<img src="https://komarev.com/ghpvc/?username=sumanthreddyboyalla01&style=for-the-badge&color=blue"/>
+
 
 </div>
 
 
-# 👋 Hey, I'm Sumanth Reddy Boyalla
-
-## Applied AI Engineer | AI Systems Engineer | Backend Engineer
+---
 
 
-I build **production-ready AI systems** combining:
-
-- Backend Engineering
-- Machine Learning
-- Large Language Models
-- Retrieval Systems
-- Agentic Workflows
+# 🚀 About Me
 
 
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence)  
-🏫 Amrita Vishwa Vidyapeetham, Amaravati
+```python
+
+class SumanthReddy:
+
+    def __init__(self):
+
+        self.role = "Applied AI Engineer"
+
+        self.education = "B.Tech CSE Artificial Intelligence"
+
+        self.college = "Amrita Vishwa Vidyapeetham"
+
+        self.focus = [
+            "Production AI Systems",
+            "Backend Engineering",
+            "LLM Applications",
+            "AI Agents"
+        ]
+
+
+    def currently_building(self):
+
+        return [
+            "RAG Systems",
+            "AI Workflows",
+            "FastAPI Backends"
+        ]
+
+```
+
+---
+
+# 🧠 Engineering Philosophy
+
+
+> Strong Software Engineer first.  
+> AI Engineer second.
+
+
+Building systems with:
+
+
+✔ APIs  
+✔ Databases  
+✔ Evaluation  
+✔ Testing  
+✔ Deployment  
 
 
 ---
 
-# 💻 Tech Stack
+
+# 🐍 Programming
 
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark"/>
-
-</p>
+<div align="center">
 
 
-## Backend Engineering
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
-<p>
+
+</div>
+
+
+- Python
+- OOP
+- Async Programming
+- Type Hints
+- Data Structures & Algorithms
+
+
+---
+
+
+# ⚙️ Backend Engineering
+
+
+<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github&theme=dark"/>
 
-</p>
+
+</div>
+
+
+Experienced with:
 
 
 - FastAPI
-- Async Python
+- REST API Design
 - PostgreSQL
-- Redis
-- REST APIs
+- Redis Caching
 - Authentication
 - PyTest
-- Docker Deployment
+- Docker
+- GitHub Actions
+- Linux
 
 
 ---
@@ -68,12 +127,21 @@ I build **production-ready AI systems** combining:
 # 🤖 AI Engineering
 
 
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+
+</div>
+
+
 ## Machine Learning
 
 - NumPy
 - Pandas
 - Scikit-Learn
-- Feature Engineering
+- ML Pipelines
 - Model Evaluation
 
 
@@ -81,11 +149,11 @@ I build **production-ready AI systems** combining:
 
 - PyTorch
 - Neural Networks
-- CNN Architectures
-- Training Pipelines
+- Transfer Learning
 
 
 ## LLM Systems
+
 
 - Large Language Models
 - Prompt Engineering
@@ -104,7 +172,7 @@ Tools:
 `Qdrant`
 `FAISS`
 `HuggingFace`
-`OpenAI APIs`
+`OpenAI API`
 
 
 ---
@@ -113,246 +181,294 @@ Tools:
 # 🚀 Featured Projects
 
 
+
 ## 🧠 Developer Knowledge Retrieval API
 
-
-Production RAG system.
 
 
 ```text
 
 Documents
 
-↓
+     ↓
 
-Chunking
+Chunking Engine
 
-↓
+     ↓
 
-Embeddings
+Embedding Pipeline
 
-↓
+     ↓
 
 Qdrant Vector DB
 
-↓
+     ↓
 
-FastAPI API
+FastAPI Retrieval API
 
-↓
+     ↓
 
-LLM Response
+LLM Response Engine
+
 
 ```
 
+
 Features:
 
-✔ Document ingestion  
 ✔ Semantic Search  
-✔ Redis caching  
-✔ PostgreSQL metadata  
-✔ Evaluation pipeline  
-✔ Docker deployment  
+✔ Vector Retrieval  
+✔ PostgreSQL Metadata  
+✔ Redis Cache  
+✔ Evaluation Pipeline  
+✔ Docker Deployment  
 
 
 Stack:
 
-`Python` `FastAPI` `Qdrant` `Redis` `PostgreSQL`
+
+`FastAPI` `Qdrant` `Redis` `PostgreSQL` `Docker`
+
 
 
 ---
+
 
 
 ## 🤖 AI Workflow Assistant
 
 
-Agentic AI system.
+
+AI Agent system powered by LangGraph.
+
 
 
 Features:
 
-✔ LangGraph orchestration  
+
+✔ Agent Workflows  
 ✔ Tool Calling  
 ✔ Memory Management  
-✔ Retrieval  
+✔ RAG  
 ✔ Structured Outputs  
-✔ Evaluation Metrics  
+✔ Failure Handling  
 
 
 Stack:
 
-`FastAPI`
+
 `LangGraph`
+`FastAPI`
+`LLM`
 `Redis`
 `Qdrant`
 
 
+
 ---
 
 
-# ⚙️ Computer Science
+
+# 📚 CS Fundamentals
 
 
-Strong foundation in:
 
-
-### DSA
-
-- Arrays
-- Strings
-- Trees
-- Graphs
-- Dynamic Programming
-
-
-### Core CS
+- Data Structures & Algorithms
 
 - Operating Systems
+
 - DBMS
+
 - Computer Networks
+
 - System Design
 
 
----
-
-
-# 🛠 Engineering Practices
-
-
-- Clean Code
-- Testing
-- CI/CD
-- Documentation
-- API Design
-- Performance Optimization
-
-
-Tools:
-
-`Git`
-`GitHub Actions`
-`Docker`
-`Linux`
-
 
 ---
+
 
 
 # 📊 GitHub Analytics
 
 
+
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanthreddyboyalla01&show_icons=true&theme=tokyonight"/>
 
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=sumanthreddyboyalla01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthreddyboyalla01&theme=tokyonight"/>
 
 
 <br><br>
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddyboyalla01&layout=compact&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddyboyalla01&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+
+
+<br><br>
+
+
+
+<img height="170"
+src="https://streak-stats.demolab.com?user=sumanthreddyboyalla01&theme=tokyonight&hide_border=true"
+/>
+
 
 
 </div>
 
 
+
 ---
 
 
-# 🏆 GitHub Trophies
+
+# 📈 Contribution Activity
+
 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumanthreddyboyalla01&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthreddyboyalla01&theme=tokyo-night&hide_border=true"/>
+
+
 
 </div>
 
 
+
 ---
+
+
+
+# 🐍 Contribution Snake
+
+
+
+<div align="center">
+
+
+
+<img src="https://raw.githubusercontent.com/sumanthreddyboyalla01/sumanthreddyboyalla01/output/github-contribution-grid-snake-dark.svg"/>
+
+
+
+</div>
+
+
+
+---
+
 
 
 # 📌 Current Focus
 
 
+
 ```yaml
+
 Building:
-  - Production AI Systems
-  - RAG Applications
+
+  - Production AI Applications
+
+  - RAG Engines
+
   - AI Agents
 
+
 Improving:
-  - DSA
+
+  - DSA Problem Solving
+
+  - Backend Architecture
+
   - System Design
-  - AI Reliability
+
 
 Exploring:
-  - Advanced RAG
-  - Multi-Agent Systems
+
+  - Multi Agent Systems
+
   - LLM Evaluation
+
+  - AI Reliability
+
 ```
+
+
 
 ---
 
+
+
 # 🌐 Socials
+
 
 
 <div align="center">
 
 
+
 <a href="https://sumanthreddyboyalla01.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
-
-&nbsp;
 
 
 <a href="https://www.linkedin.com/in/sumanth-reddy-boyalla-06112a31b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-
-&nbsp;
-
-
-<a href="https://github.com/sumanthreddyboyalla01">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-
-&nbsp;
 
 
 <a href="https://www.instagram.com/sumanth__reddy__01">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+
 </a>
 
-
-&nbsp;
 
 
 <a href="mailto:oksumanth@gmail.com">
-<img src="https://img.shields.io/badge/Email-oksumanth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
 </a>
+
 
 
 </div>
 
 
+
 ---
+
 
 
 <div align="center">
 
 
-## Building AI systems from prototype → production 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=Building+AI+Systems+from+Prototype+to+Production 🚀"/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:020617&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:0F172A&height=150&section=footer"/>
+
 
 
 </div>
