@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=Hey+👋+I'm+Boyalla+Sumanth+Reddy;Applied+AI+Engineer;AI+Systems+Engineer;Python+Backend+Engineer;Building+Production+AI+Systems;Shipping+Evaluated+AI+Not+Demos"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Boyalla+Sumanth+Reddy;AI%2FML+Engineer;Machine+Learning+Engineer;AI+Systems+Engineer;Building+Production+AI+Systems;ML+%7C+LLMs+%7C+RAG+%7C+AI+Agents"/>
 
 <br>
 
@@ -14,91 +14,114 @@
 <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sumanth-reddy-boyalla-06112a31b/">
+<a href="https://www.linkedin.com/in/boyalla-sumanth-reddy-06112a31b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/sumanth__reddy__01">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:oksumanth@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:sumanthreddyboyalla03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi 👋, I'm **Boyalla Sumanth Reddy**
+Hi 👋, I'm **Boyalla Sumanth Reddy**.
 
-I am an **Applied AI Engineer** focused on building intelligent systems that combine:
+I'm a **Computer Science student specializing in Artificial Intelligence at Amrita Vishwa Vidyapeetham**, focused on building production-oriented **AI/ML systems**.
 
-🧠 Artificial Intelligence  
-⚙️ Backend Engineering  
-🔍 Retrieval Systems  
-🤖 AI Agents  
+My interests sit at the intersection of:
 
-Currently pursuing:
+🧠 Machine Learning & Deep Learning  
+🤖 Generative AI & LLM Systems  
+🔍 Retrieval & Vector Search  
+⚙️ Backend & AI Infrastructure  
+📊 Model Evaluation & Reliability  
+🚀 Production AI Engineering  
 
-🎓 **B.Tech Computer Science Engineering (Artificial Intelligence)**  
-🏫 **Amrita Vishwa Vidyapeetham, Amaravati**
+I enjoy working on systems where machine learning meets software engineering — from training and evaluating models to building APIs, retrieval pipelines, agent workflows, and scalable AI backends.
 
-My engineering interests:
+### What I'm Building
 
-- Building production AI applications
-- Designing scalable APIs
-- Developing RAG pipelines
-- Creating AI Agent workflows
-- Improving LLM reliability
-- Writing clean backend systems
+- Machine Learning and Deep Learning systems
+- Production-oriented AI applications
+- RAG and retrieval systems
+- LLM-powered applications
+- AI Agent workflows
+- Model evaluation pipelines
+- High-performance Python backends
+- Reliable AI infrastructure
 
 <br clear="right"/>
 
 ---
 
-# 🐍 Programming
+# 🐍 Programming & Core Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql&theme=dark"/>
 
 </div>
 
-Core Skills:
+### Core Skills
 
 - Python
 - Data Structures & Algorithms
+- Object-Oriented Programming
 - Problem Solving
+- SQL
+- Backend Engineering
 
 ---
 
-# ⚙️ Backend Engineering
+# 🤖 Machine Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
 </div>
 
-Skills:
+### Machine Learning
 
-- FastAPI
-- REST APIs
-- PostgreSQL
-- Redis Caching
-- Testing
-- Docker
-- GitHub Actions
-- Linux
+- NumPy
+- Pandas
+- Scikit-Learn
+- Feature Engineering
+- Data Preprocessing
+- ML Pipelines
+- Model Training
+- Model Evaluation
+- Classification
+- Regression
+
+### Deep Learning
+
+- PyTorch
+- TensorFlow
+- Neural Networks
+- Convolutional Neural Networks
+- Transfer Learning
+- Image Classification
+- Data Augmentation
+
+### Computer Vision
+
+- Image Classification
+- Medical Image Analysis
+- CNN Architectures
+- DenseNet
+- Image Preprocessing
+- Model Evaluation
 
 ---
 
-# 🤖 AI Engineering
+# 🧠 Generative AI & LLM Engineering
 
 <div align="center">
 
@@ -106,176 +129,88 @@ Skills:
 
 </div>
 
-## Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- ML Pipelines
-- Model Evaluation
-
-## Deep Learning
-
-- PyTorch
-- Neural Networks
-
-## LLM Engineering
+### LLM Systems
 
 - Large Language Models
+- Prompt Engineering
 - Embeddings
-- Vector Databases
-- Retrieval Augmented Generation
-- AI Agents
+- Vector Search
+- Retrieval-Augmented Generation
+- Semantic Search
+- RAG Evaluation
+- Structured Outputs
 - Tool Calling
-- Evaluation Systems
+- AI Agents
+- Multi-Agent Workflows
 
-Tools:
+### Frameworks & Tools
 
 `LangGraph`
-`Qdrant`
-`FAISS`
+
+`LangChain`
+
 `HuggingFace`
 
----
-
-# 🚀 Featured Projects
-
-## 🧠 Developer Knowledge Retrieval API
-
-Production-ready RAG system.
-
-```text
-Documents
- ↓
-Chunking Pipeline
- ↓
-Embedding System
- ↓
-Qdrant Vector Database
- ↓
-FastAPI Retrieval API
- ↓
-LLM Response Engine
-```
-
-Features:
-
-✔ Document Processing  
-✔ Semantic Search  
-✔ Vector Retrieval  
-✔ PostgreSQL Metadata  
-✔ Redis Cache  
-✔ Evaluation Pipeline  
-✔ Docker Deployment  
-
-Stack:
-
-`Python` `FastAPI` `Qdrant` `Redis` `PostgreSQL`
-
----
-
-## 🤖 AI Workflow Assistant
-
-AI Agent system with workflow orchestration.
-
-Features:
-
-✔ LangGraph Agents  
-✔ Tool Calling  
-✔ RAG Memory  
-✔ Session Management  
-✔ Structured Outputs  
-✔ Evaluation Metrics  
-
-Stack:
-
-`FastAPI`
-`LangGraph`
-`Redis`
 `Qdrant`
 
----
-
-# 📚 Computer Science
-
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- Computer Networks
+`FAISS`
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚙️ AI Systems & Backend Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumanthreddyboyalla01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux,git,github&theme=dark"/>
 
 </div>
 
----
+### Backend
 
-# 📊 GitHub Analytics
+- FastAPI
+- REST API Design
+- Async Python
+- WebSockets
+- PostgreSQL
+- Redis
+- Celery
+- JWT Authentication
+- API Validation
+- Error Handling
 
-<div align="center">
+### AI Infrastructure
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=sumanthreddyboyalla01&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<br><br>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthreddyboyalla01&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-<br><br>
-
-<img height="170"
-src="https://streak-stats.demolab.com?user=sumanthreddyboyalla01&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanthreddyboyalla01&theme=github-compact&hide_border=true"/>
-
-</div>
+- AI Service Architecture
+- Retrieval Pipelines
+- Background Processing
+- Caching
+- Session Management
+- Evaluation Pipelines
+- Dockerized AI Services
+- CI/CD
+- Linux
 
 ---
 
-# 📌 Current Focus
+# 🔬 Featured AI/ML Projects
 
-```yaml
-Building:
-  - Production AI Systems
-  - RAG Applications
-  - AI Agents
+## 🧬 Histopathological Image Classification
 
-Improving:
-  - DSA
-  - Backend Architecture
+Deep learning system for classifying histopathological images.
 
-Exploring:
-  - Multi Agent Systems
-  - LLM Evaluation
-  - AI Reliability
-```
+### Pipeline
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&width=850&lines=Building+AI+Systems+from+Prototype+to+Production+🚀;Learning.+Building.+Shipping."
-/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+```text
+Histopathological Images
+        ↓
+Data Preprocessing
+        ↓
+Image Augmentation
+        ↓
+CNN / Transfer Learning
+        ↓
+DenseNet201
+        ↓
+Model Evaluation
+        ↓
+Prediction
